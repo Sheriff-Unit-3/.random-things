@@ -1,0 +1,2 @@
+.apks filter=lfs diff=lfs merge=lfs
+Addons-Hub-Minecraft-PE_5.15.12_apkcube.apks filter=lfs diff=lfs merge=lfs -text
